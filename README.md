@@ -13,7 +13,8 @@ And I create 20 task to be run in the program. We can see once task 0 has been d
 ### Speech to Text Module
 
 Based on the multiprocessing, we could design a queue system to run Speech to Text Module. And this convertor API is using google speech recognition like this.   
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/90479627/160194991-44abf007-3db7-4c57-9123-bd8a8b4ae36f.png">
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/90479627/160198318-92aba6d2-472a-48f8-ba25-d226cb14d349.png">
+
 
 Then I use all cores in my computer to do the test. And the below is what the result looks like:
 
